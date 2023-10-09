@@ -1,0 +1,1 @@
+alter table orders add last_update_time datetime;
